@@ -1,4 +1,4 @@
-# Ergo Tribes
+# Ergo tribes
 
 
 Certain services become more efficient and profitable when executed on a large scale, that is, utilizing a significant amount of resources. To achieve this, it is beneficial for multiple parties to come together to carry out these services. Some examples of these cases include:
