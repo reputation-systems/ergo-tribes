@@ -1,5 +1,3 @@
-# tribes-sc
-
 Certain services become more efficient and profitable when executed on a large scale, that is, utilizing a significant amount of resources. To achieve this, it is beneficial for multiple parties to come together to carry out these services. Some examples of these cases include:
 
 1. **Cryptocurrency mining**: Mining requires a substantial amount of computational and energy resources. When multiple parties collaborate, they can combine their resources to mine cryptocurrencies more efficiently and share the rewards.
